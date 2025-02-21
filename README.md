@@ -1,4 +1,3 @@
-```markdown
 # TensorFlow Deep Learning Notebooks
 
 This repository contains Jupyter notebooks covering fundamental concepts in deep learning using TensorFlow.
@@ -46,5 +45,3 @@ pip install tensorflow numpy matplotlib pandas jupyter
 
 ## License
 This project is open-source and available under the MIT License.
-```
-
