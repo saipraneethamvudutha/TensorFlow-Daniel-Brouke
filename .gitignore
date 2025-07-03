@@ -3,6 +3,11 @@ pizza_steak.zip
 10_food_classes_all_data/
 10_food_classes_all_data.zip
 10_food_classes_10_percent.zip
+10_food_classes_1_percent.zip
+10_food_classes_1_percent/
 10_food_classes_10_percent/
+03_custom_images/
+__MACOSX/
 tensorflow_hub/
 wandb/
+ten_percent_model_checkpoint_weight/
